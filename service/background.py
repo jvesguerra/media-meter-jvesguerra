@@ -77,7 +77,7 @@ def monitor_directory():
     except KeyboardInterrupt:
         observer.stop()
     observer.join()
-
+    
 if __name__ == "__main__":
     logging.info("Starting Python Background Service")
     monitor_directory()
