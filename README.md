@@ -1,4 +1,4 @@
-BACKEND DEV TECHNICAL EXAM
+# BACKEND DEV TECHNICAL EXAM
 
 ## DESCRIPTION
 
@@ -14,19 +14,19 @@ Python-based API and background service to handle the uploading of medalists fro
 
 1. pip install fastapi uvicorn pydantic motor python-dotenv
 
-# Swagger UI
+### Swagger UI
 
 2. Download ZIP file from (https://github.com/swagger-api/swagger-ui)
 3. Locate dist and open index.html
 
-# MONGODB
+### MongoDB
 
 4. Download Mongodb from (https://www.mongodb.com/try/download/community)
 5. Add the bin path to the system variables
 6. In MongoDB, create a database named 'database'
 7. Create a collection named 'medalists'
 
-# FOR PYTHON BACKGROUND SERVICE
+### Python Background Service
 
 1. pip install pymongo watchdog pandas
 
