@@ -1,5 +1,5 @@
 # BACKEND DEV TECHNICAL EXAM
-**Joshua V. Esguerra
+Joshua V. Esguerra
 
 ## DESCRIPTION
 
